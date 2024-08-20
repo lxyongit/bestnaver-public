@@ -2,7 +2,7 @@
 
 In the vast ocean of the internet, finding the perfect websites for your needs can be a daunting task. Bestnaver is here to revolutionize your online experience with its cutting-edge AI navigation system.
 
-Why Bestnaver Stands Out:
+## Why Bestnaver Stands Out:
 
 AI-Powered Navigation: Bestnaver uses advanced artificial intelligence to understand your preferences and suggest websites that are perfectly aligned with your interests.
 Personalized Experience: Every user gets a unique and customized navigation experience, thanks to Bestnaver's AI learning from your browsing habits.
@@ -17,6 +17,6 @@ Join the Bestnaver Community Today!
 
 Embrace the future of web navigation with Bestnaver. Sign up now to experience the convenience and efficiency of AI-assisted browsing. We're excited to have you on board.
 
-Bestnaver - Your Personal AI Web Navigator
+## Bestnaver - Your Personal AI Web Navigator
 
 For a smarter, faster, and more personalized way to explore the web, visit Bestnaver at [https://bestnaver.com].
